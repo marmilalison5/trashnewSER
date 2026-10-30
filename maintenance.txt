@@ -1,2 +1,2 @@
-FORCE
-Server maintenance: security updates in progress. Please wait, the game will continue automatically when the server is back.
+OFF
+Server maintenance in progress. Please check back soon.
