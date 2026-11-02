@@ -1,4 +1,4 @@
-FORCE
+FORCE	
 EMERGENCY MAINTENANCE
 The server is being updated with important fixes. The game opens by itself when the server is back.
 
