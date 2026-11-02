@@ -1,5 +1,5 @@
 FORCE
 EMERGENCY MAINTENANCE
-The server is being updated with important fixes. Estimated time: 2 to 3 hours. The game opens by itself when the server is back.
+The server is being updated with important fixes. The game opens by itself when the server is back.
 
-EMERGENCY MAINTENANCE: ina-update ang server para sa mahahalagang fix. Tantiya: 2 hanggang 3 oras. Kusang magbubukas ang laro pagbalik ng server.
+EMERGENCY MAINTENANCE: ina-update ang server para sa mahahalagang fix. Kusang magbubukas ang laro pagbalik ng server.
