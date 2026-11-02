@@ -1,2 +1,5 @@
-OFF
-Server maintenance in progress. Please check back soon.
+FORCE
+EMERGENCY MAINTENANCE
+The server is being restarted to fix slow game entry. Please check back in about 20 minutes.
+
+EMERGENCY MAINTENANCE: inaayos ang mabagal na pagpasok sa game. Bumalik po pagkalipas ng mga 20 minuto.
