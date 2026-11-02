@@ -1,5 +1,5 @@
 FORCE
 EMERGENCY MAINTENANCE
-The server is being restarted to fix slow game entry. Please check back in about 20 minutes.
+The server is being updated with important fixes. Please check back later. The game opens by itself when the server is back.
 
-EMERGENCY MAINTENANCE: inaayos ang mabagal na pagpasok sa game. Bumalik po pagkalipas ng mga 20 minuto.
+EMERGENCY MAINTENANCE: ina-update ang server para sa mahahalagang fix. Bumalik po mamaya. Kusang magbubukas ang laro pagbalik ng server.
