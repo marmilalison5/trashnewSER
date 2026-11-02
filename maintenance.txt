@@ -1,5 +1,2 @@
-FORCE	
-EMERGENCY MAINTENANCE
-The server is being updated with important fixes. The game opens by itself when the server is back.
-
-EMERGENCY MAINTENANCE: ina-update ang server para sa mahahalagang fix. Kusang magbubukas ang laro pagbalik ng server.
+OFF
+Server maintenance in progress. Please check back soon.
