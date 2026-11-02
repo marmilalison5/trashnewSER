@@ -1,2 +1,3 @@
-OFF
-Server maintenance in progress. Please check back soon.
+FORCE
+EMERGENCY MAINTENANCE
+The server is being updated with important fixes. The game opens by itself when the server is back.
