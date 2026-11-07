@@ -1,2 +1,2 @@
-ON
+OFF
 Server moving to Tokyo. Please wait - back soon, then UPDATE the app.
