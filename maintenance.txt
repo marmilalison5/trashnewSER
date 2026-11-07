@@ -1,2 +1,2 @@
-ON
-Short maintenance - VIP skill update for ALL classes, back in about 10 minutes. FIXES: Every class VIP set now has [VIP] Special 300G (lowers the target Maximum HP, Lv1 -0.20 to Lv9 -1.00, 10-18 sec) and [VIP] Special 300K (lowers the target HP, MP and SP Recover, Lv1 -10% to Lv9 -30%, 10-18 sec) - Brawler, Swordsman, Archer, Shaman, Extreme, Gunner. Old Push and Distract effects on these skills removed. Descriptions updated. Please reopen the app after maintenance.
+OFF
+Server moving to Tokyo. Please wait - back soon, then UPDATE the app.
