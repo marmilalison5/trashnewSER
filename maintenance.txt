@@ -1,2 +1,2 @@
 ON
-Short maintenance for skill update. Back in about 15 minutes.
+Short maintenance - skill update, back in a few minutes. FIXES: [VIP] Special 300G now lowers the target Maximum HP (Lv1 -0.20 to Lv9 -1.00, 10-18 sec). [VIP] Special 300K now lowers the target HP, MP and SP Recover (Lv1 -10% to Lv9 -30%, 10-18 sec). Both skills now deal damage at every level. Skill descriptions updated. Please reopen the app after maintenance to get the update.
