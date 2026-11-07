@@ -1,0 +1,32 @@
+59
+# Ernesh Mobile X patch notes - Tokyo cutover (app 296 / data v59). Rules: player-facing only; technical = "Game Optimization".
+NEW: ERNESH PING OPTIMIZER
+- Menu > System > General > ERNESH PING OPTIMIZER
+- Shows your live ping (ms) for each connection route and lets you pick one.
+
+NEW: 43 EMOTES
+Type them in chat:
+/macarena /twerkdance /hiphopdance /wavehiphopdance /twistdance /snakedance
+/sillydance /chickendance /shuffling /housedancing /breakdanceend /headspinstart
+/footwork /footwork1 /flair /freeze /freeze2 /freeze3 /guitar /guitar1
+/pianist /pianist2 /drumplaying /singing /praying /drunk /eaglepose
+/floatinglord /floatingdead /sitpose /standingpose /layingpose /layingpose2
+/layingpose3 /layingpose4 /layingpose5 /layingpose6 /layingpose7 /layingpose8
+/talkingoncell /situp /bicyclecrunch /kettlebellswing
+
+SKILL BALANCE
+- HP regen reduction on hit is now VIP only (VIP Special 300K).
+  It grows with skill level, up to -30% at max level.
+- Removed the HP regen reduction from normal class skills:
+  Twister Kick, Thunder Strike, Dust Cloud, Soul Gasher, Soul Burn,
+  Hurricane Blades, Sonic Blast, Provocation.
+- Max HP cut is now VIP only (VIP Special 300G), growing with skill level.
+- Removed the Max HP cut from normal class skills:
+  Shake Boxer, Lemures, Ghastly Tempest, Demon Spear Dance, Blood Storm,
+  White Hole, Condemn.
+
+ITEMS
+- Ernesh Ring [Halo] is now a RING (was Aura Belt [Halo]).
+  If you had it equipped, take it off once and equip it again.
+
+Game Optimization
