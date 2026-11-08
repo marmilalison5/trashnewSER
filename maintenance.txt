@@ -1,2 +1,2 @@
-ON
-Maintenance: security update + fixes (pet food, costumes). Back in about 10 minutes.
+OFF
+Server is online.
