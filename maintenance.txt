@@ -1,2 +1,2 @@
-OFF
-Server moving to Tokyo. Please wait - back soon, then UPDATE the app.
+ON
+Maintenance: server update (items, skills, fixes). Back in about 15 minutes.
