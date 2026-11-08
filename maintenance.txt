@@ -1,2 +1,2 @@
-ON
-Maintenance: server update (items, skills, fixes). Back in about 15 minutes.
+OFF
+Server is online.
