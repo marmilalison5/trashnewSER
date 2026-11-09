@@ -1,2 +1,2 @@
-ON
-Server maintenance. Please wait - back soon.
+OFF
+Server is online.
