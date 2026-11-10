@@ -1,32 +1,60 @@
-59
-# Ernesh Mobile X patch notes - Tokyo cutover (app 296 / data v59). Rules: player-facing only; technical = "Game Optimization".
-NEW: ERNESH PING OPTIMIZER
-- Menu > System > General > ERNESH PING OPTIMIZER
-- Shows your live ping (ms) for each connection route and lets you pick one.
+70
+# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-10 (app 333 / data v70). Rules: player-facing only; technical = "Game Optimization".
+NEW: MINING
+- Quarrying is now unlocked at level 1 for every class (one Quarrying skill per class).
+- Quarrying now deals damage to the crystal.
+- AUTO now mines: it uses the Quarrying skill on your skill tray, follows its cooldown and stays on the same crystal.
+  Move the joystick to stop.
+- One crystal, one player: the first player to hit a crystal owns it, and only that player gets its loot.
+  In PK maps, a Pull or Push on the owner frees the crystal.
+- Quarrying cooldown is 3 seconds; attack speed buffs cannot make it faster.
+- Shorter Quarrying range, so your character no longer stands inside the crystal.
+- The green auto-mining button is removed (use AUTO).
 
-NEW: 43 EMOTES
-Type them in chat:
-/macarena /twerkdance /hiphopdance /wavehiphopdance /twistdance /snakedance
-/sillydance /chickendance /shuffling /housedancing /breakdanceend /headspinstart
-/footwork /footwork1 /flair /freeze /freeze2 /freeze3 /guitar /guitar1
-/pianist /pianist2 /drumplaying /singing /praying /drunk /eaglepose
-/floatinglord /floatingdead /sitpose /standingpose /layingpose /layingpose2
-/layingpose3 /layingpose4 /layingpose5 /layingpose6 /layingpose7 /layingpose8
-/talkingoncell /situp /bicyclecrunch /kettlebellswing
+NEW: ADD HOME SCREEN
+- Menu > ADD HOME SCREEN.
+- Tap an icon to move it OUT to the row beside the chat (HOME) or back INTO the Menu (MENU).
+- Up to 8 Menu icons in the row. The chat row buttons can be moved into the Menu too.
 
-SKILL BALANCE
-- HP regen reduction on hit is now VIP only (VIP Special 300K).
-  It grows with skill level, up to -30% at max level.
-- Removed the HP regen reduction from normal class skills:
-  Twister Kick, Thunder Strike, Dust Cloud, Soul Gasher, Soul Burn,
-  Hurricane Blades, Sonic Blast, Provocation.
-- Max HP cut is now VIP only (VIP Special 300G), growing with skill level.
-- Removed the Max HP cut from normal class skills:
-  Shake Boxer, Lemures, Ghastly Tempest, Demon Spear Dance, Blood Storm,
-  White Hole, Condemn.
+NEW: JOYSTICK CHOICE (HUD EDIT)
+- FIX JOYSTICK: the joystick is always shown in one place (move and resize it in HUD EDIT).
+- HIDE JOYSTICK: the joystick appears wherever you touch inside its border (same as before).
 
-ITEMS
-- Ernesh Ring [Halo] is now a RING (was Aura Belt [Halo]).
-  If you had it equipped, take it off once and equip it again.
+NEW: GAMEPLAY GUIDE
+- Menu > System > General > GAMEPLAY GUIDE.
+- Available in English, Tagalog, Malay, Thai and Chinese; it follows your language setting.
+
+LANGUAGE
+- The whole mobile HUD and the System window now follow your language setting.
+
+SKILLS (BETA)
+- All learned skills were reset to level 1 and the skill points you spent on upgrades were given back.
+- VIP skills are open at level 1. Use skill points to upgrade them.
+- New characters start with level 1 skills.
+- Fixed buffs failing with "required avoid rate" and weapon requirement messages.
+- Speed: only Light Speed, Focused Acceleration, Haste and Massive Haste add movement speed.
+  Brawler, Swordsman, Extreme and Shaman: 90. Gunner and Archer: 95.
+- Every class has exactly one Pull and one Push skill (normal skills, 90% chance).
+  The target now slides, no more walking animation.
+- Restored missing skill effects.
+
+PVP AND DUEL
+- Duel: the loser is no longer killed; the duel ends with a WIN.
+
+GUILD
+- Guild dismissal now takes 5 seconds.
+- After leaving a guild you can join another one after 5 seconds.
+- Fixed the guild icon turning black for the uploader after logging out.
+
+CHARACTERS
+- Extreme can now use the gender change.
+- New characters appear in the character list right away.
+- Players are now visible from as far as their name shows.
+
+ITEMS AND SHOPS
+- Item Point Shop updated.
+- Item updates.
+- VIP skill scrolls, the Grand Master Set and the Sky Weapon no longer drop from monsters.
+- Removed unused skill scrolls from shops and drops.
 
 Game Optimization
