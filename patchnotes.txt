@@ -1,5 +1,5 @@
-73
-# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-10 (app 333 / data v73). Rules: player-facing only; technical = "Game Optimization".
+74
+# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-10 (app 333 / data v74). Rules: player-facing only; technical = "Game Optimization".
 NEW: MINING
 - Quarrying is now unlocked at level 1 for every class (one Quarrying skill per class).
 - Quarrying now deals damage to the crystal.
@@ -43,6 +43,7 @@ SKILLS (BETA)
 
 PVP AND DUEL
 - Duel: the loser is no longer killed; the duel ends with a WIN.
+- Fixed the game closing for the winner of a guild duel or party duel.
 
 GUILD
 - Guild dismissal now takes 5 seconds.
