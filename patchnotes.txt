@@ -1,5 +1,5 @@
-70
-# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-10 (app 333 / data v70). Rules: player-facing only; technical = "Game Optimization".
+73
+# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-10 (app 333 / data v73). Rules: player-facing only; technical = "Game Optimization".
 NEW: MINING
 - Quarrying is now unlocked at level 1 for every class (one Quarrying skill per class).
 - Quarrying now deals damage to the crystal.
