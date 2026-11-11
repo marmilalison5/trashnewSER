@@ -37,6 +37,9 @@ SKILLS (BETA)
 - Every class has exactly one Pull and one Push skill (normal skills, 90% chance).
   The target now slides, no more walking animation.
 - Restored missing skill effects.
+- Max HP cut skills (Blood Storm, Lemures, White Hole, Condemn, Shake Boxer, Ghastly Tempest,
+  VIP 300G Shaman) now lower Max HP by 99% and can no longer kill in one hit.
+- Fixed the game closing when opening the Extreme skill Spirit Shock / Taichi Stream in the skill window.
 
 PVP AND DUEL
 - Duel: the loser is no longer killed; the duel ends with a WIN.
@@ -56,5 +59,7 @@ ITEMS AND SHOPS
 - Item updates.
 - VIP skill scrolls, the Grand Master Set and the Sky Weapon no longer drop from monsters.
 - Removed unused skill scrolls from shops and drops.
+- Costumes: no more HP/MP/SP regen, costumes no longer drop from monsters,
+  costume +10000 HP is now +5000 HP, and every costume says "Costume" in its description.
 
 Game Optimization
