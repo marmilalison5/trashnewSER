@@ -1,21 +1,33 @@
 76
-NEW LOGIN SCREEN
-- New look for Login, Server Select and Character Select.
+LOGIN
+- New login screen with a new background and login panel.
+- New Server Select and Character Select screens (Characters list + Character Info).
+- New pop-up windows for every message (Yes / No, OK, input boxes).
+- The phone keyboard Enter now moves to the next box / confirms.
+
+LOADING
+- New loading screens. Mining Cave has its own loading screen.
 
 NEW HUD DESIGN
 - New HP / MP / SP / EXP / CP panel, Level / Reborn display and weapon slot.
 - New minimap with map name, time, your X Y position and phone battery.
 - New skill buttons, attack button, joystick, Force PK button and target display.
 - New chat window with tabs (All, Whisper, Party, Club, League, System).
-- Cleaner names over players and monsters (guild name keeps its background).
+- Names over players and monsters are bold and cleaner (guild name keeps its background).
+- Top 3 ranking badge over the name of ranked players.
 - New players start with a ready-made HUD layout (you can still change yours in Edit HUD).
 
 NEW WINDOWS
-- New Menu, Add Home, System (General / Video / Sound / Game), Language, Performance and Macro windows.
-- New pop-up windows for all messages.
+- New Menu and Add Home Screen.
+- New Inventory, Character, Skills, Quest, Ranking, Map, Party, Mini Party, Friends, Club, Party Finder windows.
+- New Point Shop, Item Bank, Locker, Gacha, Pet, PvP, Emoticon, Codex (Character Growth) and Product windows.
+- New AUTO, Macro, Equip Lock, Bag Lock and Locker Lock windows.
+- New System window: General, Video, Sound and Game tabs. New Language and Performance windows.
+- Window texts follow your selected language.
 
-NEW: SOUND EFFECTS
-- Sounds when a window opens and when you pick a tab.
+SOUND
+- Sound effects when a window opens and when you pick a tab.
+- Gacha machine sound effects.
 - Volume: Menu > System > Sound > Sound Effects.
 
 COMBAT
@@ -25,9 +37,11 @@ COMBAT
 - Critical hits and crushing blows deal x1.5 damage. Critical damage numbers are RED.
 - New Critical row in the Character window.
 
-EXTREME CLASS
+SKILLS
 - Extreme Fist can now use ALL skills.
 - Skills no longer need arrows, talismans or bullets unless you use a bow, spear or gun.
+- Revive skills (Fighter / Extreme) now work in events.
+- Berserk and ghosting skills fixed.
 
 NEW ITEMS
 - Emoticon cards: Patotoya, Yawa, Kupal Ka Ba and oooohaha - an image with sound over your head.
@@ -35,7 +49,12 @@ NEW ITEMS
 MAPS AND EVENTS
 - MarketPlace: new Safe NPC (Locker and Club Locker).
 - Royal Rumble: joining the event is fixed.
-- Mining Cave: minimap added, new loading screen, crystals renamed.
+- Mining Cave: minimap added, crystals renamed.
+
+FIXES
+- Item Shop preview no longer closes the game.
+- Item Bank fixed.
+- Ranking: if the list is empty, wait one minute and open it again.
 
 OTHERS
 - Sharper item and skill icons.
