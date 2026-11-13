@@ -1,66 +1,45 @@
-74
-# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-10 (app 333 / data v74). Rules: player-facing only; technical = "Game Optimization".
-NEW: MINING
-- Quarrying is now unlocked at level 1 for every class (one Quarrying skill per class).
-- Quarrying now deals damage to the crystal.
-- AUTO now mines: it uses the Quarrying skill on your skill tray, follows its cooldown and stays on the same crystal.
-  Move the joystick to stop.
-- One crystal, one player: the first player to hit a crystal owns it, and only that player gets its loot.
-  In PK maps, a Pull or Push on the owner frees the crystal.
-- Quarrying cooldown is 3 seconds; attack speed buffs cannot make it faster.
-- Shorter Quarrying range, so your character no longer stands inside the crystal.
-- The green auto-mining button is removed (use AUTO).
+76
+NEW LOGIN SCREEN
+- New look for Login, Server Select and Character Select.
 
-NEW: ADD HOME SCREEN
-- Menu > ADD HOME SCREEN.
-- Tap an icon to move it OUT to the row beside the chat (HOME) or back INTO the Menu (MENU).
-- Up to 8 Menu icons in the row. The chat row buttons can be moved into the Menu too.
+NEW HUD DESIGN
+- New HP / MP / SP / EXP / CP panel, Level / Reborn display and weapon slot.
+- New minimap with map name, time, your X Y position and phone battery.
+- New skill buttons, attack button, joystick, Force PK button and target display.
+- New chat window with tabs (All, Whisper, Party, Club, League, System).
+- Cleaner names over players and monsters (guild name keeps its background).
+- New players start with a ready-made HUD layout (you can still change yours in Edit HUD).
 
-NEW: JOYSTICK CHOICE (HUD EDIT)
-- FIX JOYSTICK: the joystick is always shown in one place (move and resize it in HUD EDIT).
-- HIDE JOYSTICK: the joystick appears wherever you touch inside its border (same as before).
+NEW WINDOWS
+- New Menu, Add Home, System (General / Video / Sound / Game), Language, Performance and Macro windows.
+- New pop-up windows for all messages.
 
-NEW: GAMEPLAY GUIDE
-- Menu > System > General > GAMEPLAY GUIDE.
-- Available in English, Tagalog, Malay, Thai and Chinese; it follows your language setting.
+NEW: SOUND EFFECTS
+- Sounds when a window opens and when you pick a tab.
+- Volume: Menu > System > Sound > Sound Effects.
 
-LANGUAGE
-- The whole mobile HUD and the System window now follow your language setting.
+COMBAT
+- Critical hits now work. Your critical chance comes from your items, buffs and skills.
+- Ranking critical bonus: Top 1 +6%, Top 2 +5%, Top 3 +3%.
+- Critical chance and crushing blow chance are capped at 50%.
+- Critical hits and crushing blows deal x1.5 damage. Critical damage numbers are RED.
+- New Critical row in the Character window.
 
-SKILLS (BETA)
-- All learned skills were reset to level 1 and the skill points you spent on upgrades were given back.
-- VIP skills are open at level 1. Use skill points to upgrade them.
-- New characters start with level 1 skills.
-- Fixed buffs failing with "required avoid rate" and weapon requirement messages.
-- Speed: only Light Speed, Focused Acceleration, Haste and Massive Haste add movement speed.
-  Brawler, Swordsman, Extreme and Shaman: 90. Gunner and Archer: 95.
-- Every class has exactly one Pull and one Push skill (normal skills, 90% chance).
-  The target now slides, no more walking animation.
-- Restored missing skill effects.
-- Max HP cut skills (Blood Storm, Lemures, White Hole, Condemn, Shake Boxer, Ghastly Tempest,
-  VIP 300G Shaman) now lower Max HP by 99% and can no longer kill in one hit.
-- Fixed the game closing when opening the Extreme skill Spirit Shock / Taichi Stream in the skill window.
+EXTREME CLASS
+- Extreme Fist can now use ALL skills.
+- Skills no longer need arrows, talismans or bullets unless you use a bow, spear or gun.
 
-PVP AND DUEL
-- Duel: the loser is no longer killed; the duel ends with a WIN.
-- Fixed the game closing for the winner of a guild duel or party duel.
+NEW ITEMS
+- Emoticon cards: Patotoya, Yawa, Kupal Ka Ba and oooohaha - an image with sound over your head.
 
-GUILD
-- Guild dismissal now takes 5 seconds.
-- After leaving a guild you can join another one after 5 seconds.
-- Fixed the guild icon turning black for the uploader after logging out.
+MAPS AND EVENTS
+- MarketPlace: new Safe NPC (Locker and Club Locker).
+- Royal Rumble: joining the event is fixed.
+- Mining Cave: minimap added, new loading screen, crystals renamed.
 
-CHARACTERS
-- Extreme can now use the gender change.
-- New characters appear in the character list right away.
-- Players are now visible from as far as their name shows.
-
-ITEMS AND SHOPS
-- Item Point Shop updated.
-- Item updates.
-- VIP skill scrolls, the Grand Master Set and the Sky Weapon no longer drop from monsters.
-- Removed unused skill scrolls from shops and drops.
-- Costumes: no more HP/MP/SP regen, costumes no longer drop from monsters,
-  costume +10000 HP is now +5000 HP, and every costume says "Costume" in its description.
-
-Game Optimization
+OTHERS
+- Sharper item and skill icons.
+- More languages: Filipino, Malay, Indonesian, Thai, Chinese, Japanese and Korean.
+- Phone back button and keyboard shortcuts no longer open PC windows.
+- Playing with Developer Options ON is not allowed (you will be sent back to login).
+- Game Optimization.
