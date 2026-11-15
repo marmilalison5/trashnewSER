@@ -1,64 +1,50 @@
-76
-LOGIN
-- New login screen with a new background and login panel.
-- New Server Select and Character Select screens (Characters list + Character Info).
-- New pop-up windows for every message (Yes / No, OK, input boxes).
-- The phone keyboard Enter now moves to the next box / confirms.
+80
+# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-15 (live APK 585 / data v80). Player-facing only; system / security fixes left out (owner); technical = "Game Optimization".
+NEW: AUTO LEVELING
+- Turn on Auto Leveling and your character levels up by itself.
+- It goes to the right map for your level, fights there and moves on when you level up.
+- Moving inside the same map is a quick jump - no loading screen.
+- It skips training dolls and bosses, and no longer stands idle when there are no monsters nearby.
+- After Reborn it starts again from the first map.
 
-LOADING
-- New loading screens. Mining Cave has its own loading screen.
+NEW: BADGES AND RANKS
+- New Badge menu: equip one badge, shown over your head.
+- MMR rank badge over your head (HD), with glow and sparkles for Diamond, Master and Grandmaster.
+- Top 1 / 2 / 3 ranking badge above the MMR badge.
+- Event war badges.
 
-NEW HUD DESIGN
-- New HP / MP / SP / EXP / CP panel, Level / Reborn display and weapon slot.
-- New minimap with map name, time, your X Y position and phone battery.
-- New skill buttons, attack button, joystick, Force PK button and target display.
-- New chat window with tabs (All, Whisper, Party, Club, League, System).
-- Names over players and monsters are bold and cleaner (guild name keeps its background).
-- Top 3 ranking badge over the name of ranked players.
-- New players start with a ready-made HUD layout (you can still change yours in Edit HUD).
+NEW: BATTLE PASS
+- Battle Pass is now in the Menu.
 
-NEW WINDOWS
-- New Menu and Add Home Screen.
-- New Inventory, Character, Skills, Quest, Ranking, Map, Party, Mini Party, Friends, Club, Party Finder windows.
-- New Point Shop, Item Bank, Locker, Gacha, Pet, PvP, Emoticon, Codex (Character Growth) and Product windows.
-- New AUTO, Macro, Equip Lock, Bag Lock and Locker Lock windows.
-- New System window: General, Video, Sound and Game tabs. New Language and Performance windows.
-- Window texts follow your selected language.
+CHAT
+- No more **** in chat: normal words are shown as typed. (Character, club and pet names still block bad words and special characters.)
+- Chat shows the channel you are on ([CH1], [CH2] ...).
+- Shout messages show as "name: text".
+- Emoji shows in front of the name tag.
+- The chat window no longer goes too high on the screen.
 
-SOUND
-- Sound effects when a window opens and when you pick a tab.
-- Gacha machine sound effects.
-- Volume: Menu > System > Sound > Sound Effects.
+HUD
+- Minimap shows your channel number and your ping (ms).
+- Fixed: the HP / MP / SP panel and buff % disappearing with a ranking badge after a channel change.
+- Mining crystal HP bar now shows over the crystal (not under your character) and hides when you walk away.
 
-COMBAT
-- Critical hits now work. Your critical chance comes from your items, buffs and skills.
-- Ranking critical bonus: Top 1 +6%, Top 2 +5%, Top 3 +3%.
-- Critical chance and crushing blow chance are capped at 50%.
-- Critical hits and crushing blows deal x1.5 damage. Critical damage numbers are RED.
-- New Critical row in the Character window.
+VENDING
+- The vend window minimizes while you sell, and your HUD controls stay on screen.
 
 SKILLS
-- Extreme Fist can now use ALL skills.
-- Skills no longer need arrows, talismans or bullets unless you use a bow, spear or gun.
-- Revive skills (Fighter / Extreme) now work in events.
-- Berserk and ghosting skills fixed.
+- Shaman [VIP] Special 300K no longer lowers HP regen (Soul Burn still does).
+- Assassin Provocation now lowers HP regen.
+- Skills no longer use up ammo.
 
-NEW ITEMS
-- Emoticon cards: Patotoya, Yawa, Kupal Ka Ba and oooohaha - an image with sound over your head.
+ITEMS AND NPC
+- Every item can now be sold to NPC shops (sell price 0).
 
-MAPS AND EVENTS
-- MarketPlace: new Safe NPC (Locker and Club Locker).
-- Royal Rumble: joining the event is fixed.
-- Mining Cave: minimap added, crystals renamed.
+MAPS
+- Campus monsters respawn at their original times again.
+- Mining Cave is now "Mining [PK]" / "Mining [S]" (bus stations too), with its own loading screen.
 
-FIXES
-- Item Shop preview no longer closes the game.
-- Item Bank fixed.
-- Ranking: if the list is empty, wait one minute and open it again.
-
-OTHERS
-- Sharper item and skill icons.
-- More languages: Filipino, Malay, Indonesian, Thai, Chinese, Japanese and Korean.
-- Phone back button and keyboard shortcuts no longer open PC windows.
-- Playing with Developer Options ON is not allowed (you will be sent back to login).
-- Game Optimization.
+APP
+- No more countdown at login.
+- During maintenance the notice now shows right when you open the app.
+- Patch notes show once, the first time you open the app after an update.
+- Game Optimization (smoother play on low-end phones, lower memory use).
