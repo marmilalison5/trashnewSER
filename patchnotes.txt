@@ -1,4 +1,4 @@
-80
+81
 # Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-15 (live APK 585 / data v80). Player-facing only; system / security fixes left out (owner); technical = "Game Optimization".
 NEW: AUTO LEVELING
 - Turn on Auto Leveling and your character levels up by itself.
@@ -37,7 +37,7 @@ SKILLS
 - Skills no longer use up ammo.
 
 ITEMS AND NPC
-- Every item can now be sold to NPC shops (sell price 0).
+- Every item can now be sold to NPC shops (sell price 0). Gold Coin keeps its price (1,999,999,999).
 
 MAPS
 - Campus monsters respawn at their original times again.
