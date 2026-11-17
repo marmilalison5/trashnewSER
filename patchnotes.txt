@@ -1,50 +1,41 @@
-81
-# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-15 (live APK 585 / data v80). Player-facing only; system / security fixes left out (owner); technical = "Game Optimization".
-NEW: AUTO LEVELING
-- Turn on Auto Leveling and your character levels up by itself.
-- It goes to the right map for your level, fights there and moves on when you level up.
-- Moving inside the same map is a quick jump - no loading screen.
-- It skips training dolls and bosses, and no longer stands idle when there are no monsters nearby.
-- After Reborn it starts again from the first map.
+85
+# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-17 (live APK 613 / data v85). Player-facing only; technical = "Game Optimization".
+NEW: CHAT EMOJI AND GIF
+- Tap the smile in the chat box: hundreds of emoji in 6 groups, tap one to add it to your message.
+- GIF tab: search GIFs (Powered by GIPHY) and send one with a single tap.
+- GIFs show in the Chat box only (no head bubble). One GIF per minute - the GIF tab shows the cooldown.
 
-NEW: BADGES AND RANKS
-- New Badge menu: equip one badge, shown over your head.
-- MMR rank badge over your head (HD), with glow and sparkles for Diamond, Master and Grandmaster.
-- Top 1 / 2 / 3 ranking badge above the MMR badge.
-- Event war badges.
+NEW: ACTION BUTTON
+- New ACTION button in the button row: hold it to pick a dance or emote (/budots, /yawning, /dance ...), tap it to do the last one again.
+- Only the moves your character can do are listed. You can move or hide it in Edit HUD.
+- Kangnam dances now play their music.
 
-NEW: BATTLE PASS
-- Battle Pass is now in the Menu.
+MUSIC
+- New login music, a normal map playlist, and war music for the war events (Club War, Tyranny, School Wars, Capture the Flag, Royal Rumble, Practicing Yard).
+- Songs play in your game language when that version exists.
 
-CHAT
-- No more **** in chat: normal words are shown as typed. (Character, club and pet names still block bad words and special characters.)
-- Chat shows the channel you are on ([CH1], [CH2] ...).
-- Shout messages show as "name: text".
-- Emoji shows in front of the name tag.
-- The chat window no longer goes too high on the screen.
+LANGUAGE
+- Tagalog was removed (English is used instead).
+- Monster names stay in English in every language; broken monster names fixed.
 
-HUD
-- Minimap shows your channel number and your ping (ms).
-- Fixed: the HP / MP / SP panel and buff % disappearing with a ranking badge after a channel change.
-- Mining crystal HP bar now shows over the crystal (not under your character) and hides when you walk away.
+SERVER SELECT
+- Shows how many players are online.
+- Channels show signal bars and Smooth / Busy / Full.
 
-VENDING
-- The vend window minimizes while you sell, and your HUD controls stay on screen.
+CHANNELS
+- Channel 2 is closed for now. Please use Channel 1 or Channel 0 (Free PK).
 
-SKILLS
-- Shaman [VIP] Special 300K no longer lowers HP regen (Soul Burn still does).
-- Assassin Provocation now lowers HP regen.
-- Skills no longer use up ammo.
+EVENTS
+- Royal Rumble now takes place in the Practicing Yard: everyone starts and revives in the middle, and there are no exits (the event ends by itself).
+- War events can be joined from every channel.
 
-ITEMS AND NPC
-- Every item can now be sold to NPC shops (sell price 0). Gold Coin keeps its price (1,999,999,999).
+PETS
+- Pet skill icons moved under the Force PK button (you can move them in Edit HUD).
+- Your pet now teleports with you when Auto Leveling jumps on the same map.
+- The pet skill "Pick up all items" is disabled and no longer sold at NPCs.
 
-MAPS
-- Campus monsters respawn at their original times again.
-- Mining Cave is now "Mining [PK]" / "Mining [S]" (bus stations too), with its own loading screen.
+ITEMS
+- Fedora hats have no stats for now and are no longer costumes. Fedoras that were merged into gear are back in your bag.
+- Fixed: the Archer freebie set (male) was invisible.
 
-APP
-- No more countdown at login.
-- During maintenance the notice now shows right when you open the app.
-- Patch notes show once, the first time you open the app after an update.
-- Game Optimization (smoother play on low-end phones, lower memory use).
+Game Optimization
