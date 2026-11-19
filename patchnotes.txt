@@ -1,41 +1,42 @@
-85
-# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-17 (live APK 613 / data v85). Player-facing only; technical = "Game Optimization".
-NEW: CHAT EMOJI AND GIF
-- Tap the smile in the chat box: hundreds of emoji in 6 groups, tap one to add it to your message.
-- GIF tab: search GIFs (Powered by GIPHY) and send one with a single tap.
-- GIFs show in the Chat box only (no head bubble). One GIF per minute - the GIF tab shows the cooldown.
+86
+# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-19 (live APK 651 / data v86). Player-facing only; technical = "Game Optimization".
+NEW POINT SHOP
+- Brand new Point Shop: tabs for Store, Package, Costume Set, Costume Weapon, Wings, Pet, Vehicle, Misc, VIP Scrolls and Event Items.
+- New SEARCH bar at the top: type a name and find the item in every tab at once.
+- Bigger character preview: turn your character with the arrows and see the costume, weapon or wings before you buy.
+- New sounds for a successful or failed purchase.
 
-NEW: ACTION BUTTON
-- New ACTION button in the button row: hold it to pick a dance or emote (/budots, /yawning, /dance ...), tap it to do the last one again.
-- Only the moves your character can do are listed. You can move or hide it in Edit HUD.
-- Kangnam dances now play their music.
+PACKAGES
+- New Igris Package (7 or 15 days) for Diamonds.
+- Tap an item in "Package Contents" to see it: boxes open the View Box window (tap each piece for its details), other items show their description.
+- Cash top-up is coming soon. For now everything is bought with Diamonds.
 
-MUSIC
-- New login music, a normal map playlist, and war music for the war events (Club War, Tyranny, School Wars, Capture the Flag, Royal Rumble, Practicing Yard).
-- Songs play in your game language when that version exists.
+COSTUMES
+- Every Costume Set in the Point Shop is now 7 days, listed once (no more duplicates).
+- All costumes now have the same stats as the Portgas D. Ace costume: HP +1000, Damage +500, Magic +100 on Body, Pants, Gloves and Shoes.
+- All costume boxes have a new treasure chest icon.
+- Costume weapons, accessories and wings have new icons with a glowing frame in your bag.
+- Costume weapons in the Point Shop: 300 Diamonds.
 
-LANGUAGE
-- Tagalog was removed (English is used instead).
-- Monster names stay in English in every language; broken monster names fixed.
+WINGS AND VEHICLES
+- Wings have their own tab, with Male and Female versions. New: Gundam No2 [Wing] (300 Diamonds).
+- All vehicles are now in the Vehicle tab (300 Diamonds).
+- Fixed: Gundam No2 costume looked broken / spiky.
+- Fixed: Elleon and Sky bows were held the wrong way.
 
-SERVER SELECT
-- Shows how many players are online.
-- Channels show signal bars and Smooth / Busy / Full.
-
-CHANNELS
-- Channel 2 is closed for now. Please use Channel 1 or Channel 0 (Free PK).
+PARTY AND GUILD
+- Parties now hold up to 30 players.
+- Guilds at the highest rank can now have up to 500 members.
 
 EVENTS
-- Royal Rumble now takes place in the Practicing Yard: everyone starts and revives in the middle, and there are no exits (the event ends by itself).
-- War events can be joined from every channel.
+- Club War is now EVERY DAY at 9:00 PM (1 hour).
+- Tyranny towers are much stronger: capturing one now takes real teamwork.
 
-PETS
-- Pet skill icons moved under the Force PK button (you can move them in Edit HUD).
-- Your pet now teleports with you when Auto Leveling jumps on the same map.
-- The pet skill "Pick up all items" is disabled and no longer sold at NPCs.
-
-ITEMS
-- Fedora hats have no stats for now and are no longer costumes. Fedoras that were merged into gear are back in your bag.
-- Fixed: the Archer freebie set (male) was invisible.
+PK AND COMBAT
+- Force PK targets players only (towers and monsters are ignored while it is on).
+- Turning Force PK off now clears a locked target.
+- Channel 0 (Free PK): everyone outside safe maps is a red name to other schools, and there is no PK penalty on Channel 0.
+- New option: hide your own skill effects (in the same place as hiding other players' skill effects).
+- Skills: Crushing Blow removed from the class skills.
 
 Game Optimization
