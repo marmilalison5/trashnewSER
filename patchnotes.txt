@@ -1,37 +1,21 @@
-91
-# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-20 (live APK 667 / data v91). Player-facing only; technical = "Game Optimization".
-OPEN BETA TEST
-- Ernesh Mobile X is now in OPEN BETA! Everyone starts fresh: all characters, items and progress were reset. Your account (ID and password) stays.
-- New characters start at Reborn 99.
-- Players who reached MAX Reborn + MAX Level before the reset are saved for a special reward.
+95
+# Ernesh Mobile X patch notes - Tokyo quick restart 2026-11-20 (live APK 680 / data v95). Player-facing only; technical = "Game Optimization".
+APP UPDATE 680
+- Please UPDATE the app when the update popup shows.
 
-ERNESH NPC
-- The ERNESH NPC Accessories tab now sells the Divine and Celestial [VIP] accessories.
+DISPLAY
+- New: Display Fix setting (System > General > Performance). If your screen shows a doubled, flickering or broken picture, pick another Display Fix option. Default keeps your phone's normal setting.
+- Phones with a 90 Hz screen can now run at 90 FPS on High.
 
-NEW INVENTORY
-- The Inventory is now full screen with a brand new look.
-- Item icons fill their slots, and Use changes to Equip / Unequip / Open by itself.
-- Locked bag rows now show a padlock.
-- Items now shine in the color of their grade (Rare, Unique, Infinity and Epic).
+STABILITY
+- Fixed a server crash that could happen when an idle player was disconnected.
+- The game now uses less memory after you close big windows (Inventory, Point Shop, Character), so low-memory phones close less often.
+- When the game has a problem, a short log is sent to us automatically so we can fix it faster.
 
-NEW BATTLE PASS
-- The Battle Pass is now full screen with a brand new look: Rewards and Missions tabs, your level and EXP, and 5 levels per page.
-- Claim Normal and Premium rewards right from the list.
-- Premium can now be unlocked right inside the Battle Pass (cash unlock coming soon).
-
-SELLING
-- Sell items from your Inventory without opening the shop: just stand near an NPC that buys items (a much bigger range than before).
-- Buying still needs you to talk to the NPC.
-
-POINT SHOP
-- Costume Set boxes now show their real box icon. Tap the icon to see what is inside.
-- The Costume Set tab now only lists sets with 4 or more pieces.
-- Store items bought for 15 days now really last 15 days (box contents too).
+LOGIN
+- Changing your network (Wi-Fi to mobile data) no longer blocks your login. If you see "already logged in" after switching network, just try again.
 
 ITEMS
-- Costume boxes, costume weapons and wings are now Infinity grade, and the pieces inside a costume box have the same grade as the box.
-- Crushing Blow has been removed from all items.
-- Fixed: the Reborn Card was named "Rebon Card".
-- Fixed: Gundam No2 wings sat too high (now at the same place as the Miracle Wings).
+- Fixed: 6 emoji items could not be used properly after buying them.
 
 Game Optimization
