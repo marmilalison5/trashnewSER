@@ -1,21 +1,41 @@
-95
-# Ernesh Mobile X patch notes - Tokyo quick restart 2026-11-20 (live APK 680 / data v95). Player-facing only; technical = "Game Optimization".
-APP UPDATE 680
-- Please UPDATE the app when the update popup shows.
+96
+# Ernesh Mobile X patch notes - Tokyo maintenance 2026-11-22 (live APK 709 / data v96). Player-facing only; technical = "Game Optimization".
+NEW: ERNESH BOSS EVENT
+- Every day at 10:00 PM, right after Club War ends (it waits if Club War runs late).
+- An event card appears for everyone: tap JOIN to register. After 5 minutes everyone registered is moved into the boss map.
+- 288 bosses are spread over the whole map (hills too) and get new spots every event. They walk around on their own.
+- You have 1 HOUR. The time left is shown under the minimap: BOSS EVENT mm:ss.
+- Every boss kill drops gold: Reflector and Giant Hawk about 100K, every other boss about 30K.
+- Auto Skill and Auto Attack are not allowed inside the Boss Event.
+- When every boss is defeated or the hour is up, everyone is sent home.
 
-DISPLAY
-- New: Display Fix setting (System > General > Performance). If your screen shows a doubled, flickering or broken picture, pick another Display Fix option. Default keeps your phone's normal setting.
-- Phones with a 90 Hz screen can now run at 90 FPS on High.
+NEW: E-ROOM HOLDER TITLE
+- The guild that holds the E-Room after Club War gets the "E-ROOM Holder" title for every member: +5% critical while equipped.
+- The title is removed when the next Club War starts.
 
-STABILITY
-- Fixed a server crash that could happen when an idle player was disconnected.
-- The game now uses less memory after you close big windows (Inventory, Point Shop, Character), so low-memory phones close less often.
-- When the game has a problem, a short log is sent to us automatically so we can fix it faster.
+AUTO LEVELING
+- New leveling map: Death Prison. Auto Leveling takes you there.
+- New monsters BOY PRESO, BOY TABA and BOY MASO (Lv 500): fast respawn, extra EXP in this map, small gold drop on every kill.
+- Monsters in the other maps respawn at the normal speed again (50 seconds).
+- World bosses Giant Hawk, Blaze Angel Mia, Lucian and Red Hair Warrior respawn every 8 hours.
 
-LOGIN
-- Changing your network (Wi-Fi to mobile data) no longer blocks your login. If you see "already logged in" after switching network, just try again.
+EVENT SCHEDULE
+- Club War: Sunday, Monday, Wednesday, Friday and Saturday at 9:00 PM (1 hour).
+- Royal Rumble: 8:00 PM on Club War days, and Tuesday + Thursday at 9:00 PM.
 
-ITEMS
-- Fixed: 6 emoji items could not be used properly after buying them.
+SKILLS
+- Pull skills: every class now pulls at the same speed.
+- Push skills: every class now pushes the same distance.
+- Slow, numb and burn effects removed from several skills.
+
+SETTINGS
+- System > Game: "Hide Skill" is now one dropdown: OFF / OWN / OTHERS / BOTH.
+- System > General > Performance > Renderer: choose DXVK (default) or RUST, our new graphics engine (test). Close and reopen the game to apply. If RUST fails to start twice, the game goes back to DXVK by itself.
+
+FIXES
+- Fixed: some vehicle, weapon and effect textures looked broken.
+- Fixed: Club E-Room main computer is back next to its NPC.
+- Fixed: the game could freeze at the intro video on some phones.
+- Fixed: the text cursor in the Macro window was too far from the text.
 
 Game Optimization
