@@ -1,56 +1,19 @@
-96
+97
 ERNESH MOBILE X - PATCH NOTES
-Tokyo Maintenance - November 22, 2026 (Live APK 709 / Game Data 96)
+Quick Update - November 22, 2026 (Live APK 726 / Game Data 97)
 
-NEW: ERNESH BOSS EVENT
-- Daily event at 10:00 PM, immediately after Club War (delayed if Club War runs late).
-- An event card appears for all players. Tap JOIN to register.
-- After 5 minutes, registered players are automatically teleported to the Boss Map.
-- 288 Bosses spawn across the entire map, including hills. Their locations change every event, and they move around independently.
-- Event duration: 1 HOUR. Remaining time appears below the minimap as BOSS EVENT mm:ss.
-- Every boss kill drops gold:
-  Reflector & Giant Hawk: approximately 100K Gold each.
-  Other bosses: approximately 30K Gold each.
-- Auto Skill and Auto Attack are disabled inside the Boss Event.
-- When all bosses are defeated or the event timer expires, all players are automatically sent back.
+NEW CHARACTERS
+- Every new character now starts with HP 2000, MP 1000 and SP 1000.
 
-NEW: E-ROOM HOLDER TITLE
-- The guild holding the E-Room after Club War receives the E-ROOM Holder title for every guild member.
-- Bonus: +5% Critical while equipped.
-- The title is removed when the next Club War begins.
+APP UPDATE 726
+- Fixed: the game could close by itself the first time you opened it after an app update.
+- RUST renderer: fixed the screen blinking after restarting the game.
+- RUST renderer: fixed the whole screen flashing colors at night.
+- Staff names in channel chat show in rainbow again.
+- Smoother when other players come back into view on phones with more than 9 GB RAM.
 
-AUTO LEVELING & NEW MAP
-- New leveling map: DEATH PRISON.
-- Auto Leveling now takes players to Death Prison.
-- New Level 500 monsters: BOY PRESO, BOY TABA, BOY MASO.
-- Fast respawn, bonus EXP, and small Gold drops on every kill.
-- Other leveling maps return to their normal 50-second respawn.
-- World Boss respawn schedule: Giant Hawk, Blaze Angel Mia, Lucian, Red Hair Warrior - respawn every 8 HOURS.
+NOTE
+- If the game closes right after updating, just open it again.
 
-EVENT SCHEDULE
-- Club War: Sunday, Monday, Wednesday, Friday & Saturday - 9:00 PM (1 hour)
-- Royal Rumble: 8:00 PM on Club War days
-- Royal Rumble: Tuesday & Thursday - 9:00 PM
-- Ernesh Boss Event: Daily - 10:00 PM
-
-SKILL ADJUSTMENTS
-- Pull Skills: All classes now pull targets at the same speed.
-- Push Skills: All classes now push targets the same distance.
-- Removed Slow, Numb, and Burn effects from several skills.
-
-SETTINGS & GAME OPTIMIZATION
-- Hide Skill: Changed to one dropdown under System > Game: OFF / OWN / OTHERS / BOTH.
-- New Renderer Options: System > General > Performance > Renderer
-  DXVK - Default renderer.
-  RUST - New graphics engine (test).
-- IMPORTANT: Close and reopen the game after changing the renderer to apply the setting.
-- If RUST fails to start twice, the game automatically switches back to DXVK.
-
-FIXES
-- Fixed broken-looking vehicle, weapon, and effect textures.
-- Restored the Club E-Room main computer beside its NPC.
-- Fixed game freezes at the intro video on some phones.
-- Fixed the text cursor position in the Macro window.
-
-GAME OPTIMIZATION - BETTER GAMEPLAY, NEW CONTENT & IMPROVED PERFORMANCE!
+GAME OPTIMIZATION - BETTER GAMEPLAY & IMPROVED PERFORMANCE!
 ERNESH MOBILE X
