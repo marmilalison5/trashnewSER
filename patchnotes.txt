@@ -1,12 +1,13 @@
 98
 ERNESH MOBILE X - PATCH NOTES
-Update - November 23, 2026 (Live APK 744 / Game Data 98)
+Update - November 23, 2026 (Live APK 745 / Game Data 98)
 
-APP UPDATE 744
+APP UPDATE 745
+- Fixed: the game could close by itself near players who changed their name, or when a chat bubble showed over a head.
 - RUST renderer: fixed a freeze when some skill effects are on screen.
 - Skill switch up to F12: Edit HUD > + Switch / - Switch (F7-F12 are saved on your phone).
 - NEW: Settings > Performance > Hide All HUD - only the world and names stay; tap the eye (top right) to show the HUD again.
-- Renderer: DXVK is the default; RUST can be picked in Settings > Performance > Renderer.
+- Renderer: RUST (faster) is used on every phone; if RUST cannot start on a phone, the game uses DXVK by itself.
 - Fixed: the game could close by itself right after opening on some phones (ZTE and other Mali GPU phones).
 - Fixed: the game could close when a Club Notice was changed.
 - RUST renderer: no more freeze when other players use skills.
@@ -29,7 +30,7 @@ GUILD
 - The guild master can withdraw guild locker gold again.
 
 NOTE
-- Please update to the newest app (744).
+- Please update to the newest app (745).
 
 GAME OPTIMIZATION - BETTER GAMEPLAY & IMPROVED PERFORMANCE!
 ERNESH MOBILE X
