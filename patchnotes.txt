@@ -1,8 +1,8 @@
 98
 ERNESH MOBILE X - PATCH NOTES
-Update - November 23, 2026 (Live APK 735 / Game Data 98)
+Update - November 23, 2026 (Live APK 736 / Game Data 98)
 
-APP UPDATE 735
+APP UPDATE 736
 - Fixed: the game could close by itself right after opening on some phones (ZTE and other Mali GPU phones).
 - Fixed: the game could close when a Club Notice was changed.
 - RUST renderer: no more freeze when other players use skills.
@@ -20,9 +20,10 @@ ITEMS
 
 GUILD
 - All guild locker gold has been reset.
+- The guild master can withdraw guild locker gold again.
 
 NOTE
-- Please update to the newest app (735).
+- Please update to the newest app (736).
 
 GAME OPTIMIZATION - BETTER GAMEPLAY & IMPROVED PERFORMANCE!
 ERNESH MOBILE X
