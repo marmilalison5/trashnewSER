@@ -1,8 +1,8 @@
 98
 ERNESH MOBILE X - PATCH NOTES
-Update - November 23, 2026 (Live APK 736 / Game Data 98)
+Update - November 23, 2026 (Live APK 741 / Game Data 98)
 
-APP UPDATE 736
+APP UPDATE 741
 - Fixed: the game could close by itself right after opening on some phones (ZTE and other Mali GPU phones).
 - Fixed: the game could close when a Club Notice was changed.
 - RUST renderer: no more freeze when other players use skills.
@@ -11,6 +11,8 @@ APP UPDATE 736
 - Ranking badge stays after a character rename.
 - Ranking now refreshes every 5 minutes.
 - Name tag: guild icon, school icon, guild name and character name now share one clean background.
+- Level-up, skill cooldown and quest messages now show only in the System chat tab.
+- Your level-up effect now surrounds your character.
 
 ITEMS
 - Starting weapons, Demetrus Ring and Master Rosary no longer give Energy.
@@ -23,7 +25,7 @@ GUILD
 - The guild master can withdraw guild locker gold again.
 
 NOTE
-- Please update to the newest app (736).
+- Please update to the newest app (741).
 
 GAME OPTIMIZATION - BETTER GAMEPLAY & IMPROVED PERFORMANCE!
 ERNESH MOBILE X
