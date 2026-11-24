@@ -1,6 +1,6 @@
-105
+106
 ERNESH MOBILE X - PATCH NOTES
-Update - November 24, 2026 (Live APK 800 / Game Data 105)
+Update - November 24, 2026 (Live APK 800 / Game Data 106)
 
 NEW - LEVELING MAP ON BUS 2
 - Bus 2 now has a "Leveling Map" stop (first in the list, before Mining [PK] and Mining [S]).
@@ -14,7 +14,9 @@ RANDOM OPTIONS (all items re-rolled)
 - Every item that had random options got a new roll from the new option tables.
 - Armor / Helmet: HP Increase option replaced by Attack(+) (up to 200).
 - Weapon / Attack accessories: Attack(+) up to 200, Accuracy(+) up to 149.
-- NEW option on weapons: Crit Damage (+1% to +10% per item, total bonus up to +50%).
+- NEW option on weapons AND attack accessories (necklace, bracelet, rings, earrings, belt/aura, wing): Crit Damage (+1% to +10% per item).
+- Total Crit Damage bonus cap: 90% (weapon + attack accessories together).
+- New drops and Randomizer card rolls can get Crit Damage; accessories you already have keep their current options.
 - Defense option: maximum 99.
 - Randomizer cards use the same new ranges.
 
@@ -32,9 +34,16 @@ Weapon:
 - Shooting 149
 - Energy 149
 - Crit Damage 10%
+Attack Accessories:
+- Attack(+) 200
+- Accuracy(+) 149
+- Melee 149
+- Shooting 149
+- Energy 149
+- Crit Damage 10%
 
 BALANCE
-- Armor damage absorption is capped at 50% (PvP and PvE).
+- Armor damage absorption is capped at 50% (PvP and PvE), so critical hits stay ahead of armor.
 
 ITEMS
 - Vehicle regen removed (Wukong Mount; attack speed and move speed stay).
