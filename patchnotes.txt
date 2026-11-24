@@ -16,7 +16,7 @@ RANDOM OPTIONS (all items re-rolled)
 - Weapon / Attack accessories: Attack(+) up to 200, Accuracy(+) up to 149.
 - NEW option on weapons AND attack accessories (necklace, bracelet, rings, earrings, belt/aura, wing): Crit Damage (+1% to +10% per item).
 - Total Crit Damage bonus cap: 90% (weapon + attack accessories together).
-- New drops and Randomizer card rolls can get Crit Damage; accessories you already have keep their current options.
+- All attack accessories (necklace, bracelet, rings, earrings, belt/aura, wing) were re-rolled with the new table, so they can now have Crit Damage.
 - Defense option: maximum 99.
 - Randomizer cards use the same new ranges.
 
