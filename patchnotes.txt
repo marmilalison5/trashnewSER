@@ -1,36 +1,37 @@
-98
+102
 ERNESH MOBILE X - PATCH NOTES
-Update - November 23, 2026 (Live APK 745 / Game Data 98)
+Update - November 24, 2026 (Live APK 789 / Game Data 102)
 
-APP UPDATE 745
-- Fixed: the game could close by itself near players who changed their name, or when a chat bubble showed over a head.
-- RUST renderer: fixed a freeze when some skill effects are on screen.
-- Skill switch up to F12: Edit HUD > + Switch / - Switch (F7-F12 are saved on your phone).
-- NEW: Settings > Performance > Hide All HUD - only the world and names stay; tap the eye (top right) to show the HUD again.
-- Renderer: RUST (faster) is used on every phone; if RUST cannot start on a phone, the game uses DXVK by itself.
-- Fixed: the game could close by itself right after opening on some phones (ZTE and other Mali GPU phones).
-- Fixed: the game could close when a Club Notice was changed.
-- RUST renderer: no more freeze when other players use skills.
-- Smoother when new players appear or when you enter a crowded area.
-- Menu and System windows now open without a short freeze.
-- Ranking badge stays after a character rename.
-- Ranking now refreshes every 5 minutes.
-- Name tag: guild icon, school icon, guild name and character name now share one clean background.
-- Level-up, skill cooldown and quest messages now show only in the System chat tab.
-- Your level-up effect now surrounds your character.
+APP UPDATE 789 - NEW WINDOWS
+- NEW Skill Window: full screen, tabs, Level Up right in the window, skill effect + requirements, 3D preview, quick slot assign / remove.
+- NEW Character Window, Quest Window, Map Window and Pet Window (full screen).
+- Quest Window: Give Up and Complete buttons.
+- Map Window: Safe / PK / Respawn shown for every map, Current Location + Quest List, tap to move.
+- Pet Window: your real pet on the stage, bigger skill and costume icons.
+- Inventory: darker background, bigger slots, belt / bullet swap.
+- Inventory: Upgrade, Merge, Unmerge, Apply and Split right inside the Item Info panel; the bag shows only the items that fit, tap one to put it in the slot.
+- Inventory: no more Yes/No questions for Drop, Sell, card use, wrap / unwrap (the action runs at once - be careful with Reset cards).
+- Pet: Summon / Dismiss with no question; the button shows SUMMON or DISMISS.
 
-ITEMS
-- Starting weapons, Demetrus Ring and Master Rosary no longer give Energy.
-- Divine and Celestial VIP items now give Energy +50 each.
-- Every class now gets a Fedora Hat (5% regen) in Accesories Starting.
-- Accesories Starting and all Cap Boxes can now be opened from level 1.
+SKILLS / PVP
+- Pull and Push skills: hit up to 8 targets at every level, never miss (also on Evasion), range 70 + area 70.
+- PvP: more magic resistance against magic attacks (PvE unchanged).
 
-GUILD
-- All guild locker gold has been reset.
-- The guild master can withdraw guild locker gold again.
+PET / VEHICLE
+- After you dismiss your pet, you can summon it again after 20 seconds.
+- After you get off your vehicle, you can ride again after 20 seconds.
+
+EXP / LEVELING
+- EXP is back to the normal table (no more 1 kill = 1 level).
+- Leveling map: no x100 EXP; leveling monsters give bonus EXP and drop no gold.
+
+ITEMS / NPC
+- Main Stone crafting now costs 100,000 gold for every Main Stone.
+- Freebie vehicle PSYDUCK [TRANSFORM] can now be used from level 1.
+- Ernesh Beta NPC (Accessories): Divine Overlord Card V, Celestial Overlord Card V, The Strength Card V and Fedora Hat removed.
 
 NOTE
-- Please update to the newest app (745).
+- Please update to the newest app (789).
 
 GAME OPTIMIZATION - BETTER GAMEPLAY & IMPROVED PERFORMANCE!
 ERNESH MOBILE X
