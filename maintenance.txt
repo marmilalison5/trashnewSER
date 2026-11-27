@@ -1,2 +1,2 @@
 ON
-Server maintenance + big update (about 40 minutes). Please wait, then UPDATE the app.
+Server maintenance + update. Please wait, then UPDATE the app.
