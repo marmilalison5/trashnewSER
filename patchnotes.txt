@@ -1,27 +1,33 @@
-119
+136
 ERNESH MOBILE X - PATCH NOTES
-Update - November 27, 2026 (Live APK 1022 / Game Data 119)
+Update - November 28, 2026 (Live APK 1028 / Game Data 136)
 
-SKILL FIX (ALL CLASSES)
-- Skill levels fixed: a lower skill level is never stronger than the level above it.
-- Max level (Lv 9) values are not changed.
-- Gift of Life Lv 1 HP bug fixed (it gave too much HP).
+SKILL BALANCE
+- Madness Buff Attack Speed reduced for all classes.
+- Revive skill cooldown adjusted for Shaman and Extreme.
 
-NEW INTERFACE
-- New clean look for the game windows, with a semi full screen size that fits any phone.
-- Bus travel can now be used from the MENU (Bus Card still used).
-- Macros: more slots, and they are saved even after you close the game.
-- Skill set button: tap to pick a set directly (direction can be set in HUD EDIT).
-- New default interface; your HUD layout is reset to the new default once.
+ITEM BALANCE
+- Attack Speed removed from equipment.
+- Accuracy and Evasion random options removed (also from existing items).
+- Costume Energy rebalanced: weapon costumes reduced, other costumes have no Energy.
+- Power Up boxes are now Bread.
+- Grand Master set replaced by the Deistic set.
 
-PERFORMANCE
-- Low FPS fix for phones that cannot run the fast renderer.
+NPC & SHOP
+- Ernesh NPC updated: Deistic Set boxes and Hellion weapons now available.
+- New item seller NPC in the Trade Zone.
+- Shop and NPC clean-up in the campuses.
 
-SECURITY
-- Account security improved. Log in with your same password as before.
+MAPS & EVENTS
+- Trade Zone is now a Free PK area.
+- Boss Event drops updated.
+
+FIXES
+- GM notice now shows correctly on screen.
+- Private Stats option now hides your stats from other players.
 
 NOTE
-- Please update to the newest app (1022).
+- Please update to the newest app (1028).
 
 GAME OPTIMIZATION - BETTER GAMEPLAY & IMPROVED PERFORMANCE!
 ERNESH MOBILE X
